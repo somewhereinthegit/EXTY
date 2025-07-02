@@ -45,6 +45,19 @@ We welcome thinkers, designers, researchers, developers, artists, philosophers, 
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for details.
 
+## 📁 Folder Structure
+
+| Folder         | Contents                                                     |
+|----------------|--------------------------------------------------------------|
+| `/docs/`       | 📚 PDF and `.md` versions of the 7 core documents            |
+| `/hub/`        | 🏛️ Main README + links to all modules and canvases          |
+| `/model/`      | 📐 Theoretical foundations of EXTY (`xyzt`, etc.)            |
+| `/prototype/`  | 💻 Code and/or specs for the first prototype                 |
+| `/community/`  | 🧭 Community organization and governance                     |
+| `/roadmap/`    | 🗺️ Roadmap, milestones, and dependency trees                 |
+| `/assets/`     | 🎨 Images, visuals, emojis                                   |
+
+
 ## 📜 License
 
 [![License: MIT](https://img.shields.io/badge/Code-License%20MIT-blue.svg)](https://opensource.org/licenses/MIT)
