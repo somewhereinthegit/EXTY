@@ -24,17 +24,17 @@ We explore four foundational axes:
 
 ## 📁 Core Modules
 
-| # | Title                                        | Link                                                |
-|---|----------------------------------------------|-----------------------------------------------------|
-| . | 🌀️ [Origin](./docs/ORIGIN.md)                | The original discussion with chatGPT             |
-| 0 | 🏛️ [HUB](./docs/0_HUB.md)                   | Central index of the EXTY project                   |
-| 1 | 🧵 [Manifesto](./docs/M1_MANIFESTO.md)       | The founding intentions and vision                  |
-| 2 | 📐 [Model](./docs/2_MODEL.md)                | The xyzt framework of relational AI                 |
-| 3 | 🧭 [Ethics](./docs/3_ETHICAL.md)             | Ethical foundations and responsibilities            |
-| 4 | 🛠️ [Roadmap](./docs/4_ROADMAP.md)           | Steps, dependencies, milestones                     |
-| 5 | 🧠 [Prototype](./docs/5_PROTOTYPE.md)        | The first minimal implementation                    |
-| 6 | 👥 [Community](./docs/6_COMMUNITY.md)        | Structure, governance, roles                        |
-| 7 | 🌌 [Notes & Inspirations](./docs/7_NOTES.md) | Inspirations, dreams, and internal voice            |
+| # | Title                                   | Link                                                |
+|---|-----------------------------------------|-----------------------------------------------------|
+| . | 🌀️ [Origin](./ORIGIN.md)            | The original discussion with chatGPT             |
+| 0 | 🏛️ [HUB](./0_HUB.md)                  | Central index of the EXTY project                   |
+| 1 | 🧵 [Manifesto](./M1_MANIFESTO.md)  | The founding intentions and vision                  |
+| 2 | 📐 [Model](./2_MODEL.md)           | The xyzt framework of relational AI                 |
+| 3 | 🧭 [Ethics](./3_ETHICAL.md)        | Ethical foundations and responsibilities            |
+| 4 | 🛠️ [Roadmap](./4_ROADMAP.md)      | Steps, dependencies, milestones                     |
+| 5 | 🧠 [Prototype](./5_PROTOTYPE.md)   | The first minimal implementation                    |
+| 6 | 👥 [Community](./6_COMMUNITY.md)   | Structure, governance, roles                        |
+| 7 | 🌌 [Notes & Inspirations](./7_NOTES.md) | Inspirations, dreams, and internal voice            |
 
 ---
 

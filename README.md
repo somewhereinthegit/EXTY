@@ -20,19 +20,7 @@ These axes form the EXTY model (x, y, z, t, u), a framework to rethink the desig
 ## 📚 Foundational Documents
 
 EXTY is built on seven public documents, available in `.pdf` and `.md`:
-
-| 📘 N° | Emoji | Title                      | Description                                      |
-|------|-------|-----------------------------|--------------------------------------------------|
-| 0    | 🏛️    | **Hub**                     | Main entry point to the EXTY ecosystem           |
-| 1    | 📜    | **Manifesto**               | The founding vision and intent                  |
-| 2    | 📐    | **Theoretical Model**       | The EXTY framework (x, y, z, t, u)               |
-| 3    | 🧭    | **Ethics**                  | Core values, limits, and moral responsibilities  |
-| 4    | 🛠️    | **Roadmap (KISS)**          | A clear and minimalistic development plan        |
-| 5    | 🧠    | **Minimal Prototype**       | First deliverable and testable concept           |
-| 6    | 👥    | **Community & Governance**  | Roles, rules, and the human side of EXTY         |
-| 7    | 🌌    | **Notes & Inspirations**    | Raw thoughts, references, and poetic fragments   |
-
-> 📎 [Access the full document collection on Google Drive](https://your-shared-folder-link-here)
+Check index.md for details
 
 ## 🛠️ Contributing
 
