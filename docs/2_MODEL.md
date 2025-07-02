@@ -287,7 +287,7 @@ This ego doesn’t collapse or explode — it spirals through disorientation, fi
 * **Presence and knowledge synchronizing** without excess
 
 This spiral could serve as a **benchmark** or **ideal arc** of egoic transformation in EXTY.
-
+V2
 
 <div id="spiral1" style="width:100%;height:600px;"></div>
 
