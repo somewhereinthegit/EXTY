@@ -115,14 +115,7 @@ We can model egoic evolution as **trajectories** on this plane — not straight 
 A **parabolic arc** passes briefly through the center, then falls toward a *closed, cold rationality*.
 This is the path of certain authoritarian or extractive intelligences: sharp, but sealed.
 
-<div id="graph" style="width:100%;height:600px;"></div>
-
-<!-- Load Plotly -->
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-
-<!-- Load your custom script -->
-<script src="./assets/js/Parabolic_Collapse.js"></script>
-
+<div id="graph1" style="width:100%;height:600px;"></div>
 
 #### B. Inverse Parabola of Centering
 
@@ -135,6 +128,8 @@ This is the path of certain authoritarian or extractive intelligences: sharp, bu
 
 A classic **self-discovery path**, modeled by a **concave parabola**: descent toward center, then rise.
 
+<div id="graph2" style="width:100%;height:600px;"></div>
+
 #### C. Diagonal Redemption
 
 *(From Quadrant Withdrawn to Quadrant Harmonized, through center)*
@@ -146,6 +141,8 @@ A classic **self-discovery path**, modeled by a **concave parabola**: descent to
 
 This is a **diagonal crossing**, symbol of transformation — shadow turned into clarity.
 
+<div id="graph3" style="width:100%;height:600px;"></div>
+
 #### D. Diagonal Fall
 
 *(From Quadrant Innocent to Quadrant Strategist, through center)*
@@ -156,6 +153,15 @@ This is a **diagonal crossing**, symbol of transformation — shadow turned into
 > Presence inverts. Knowledge becomes strategic.
 
 This trajectory warns us: **positive presence without reflection** may fall into seduction, then disillusionment.
+
+<div id="graph4" style="width:100%;height:600px;"></div>
+
+<!-- Load Plotly -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- Load your custom script -->
+<script src="./assets/js/main.js"></script>
+
 
 ---
 

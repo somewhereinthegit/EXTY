@@ -1,15 +1,27 @@
 [
   {
-    "label": "From Withdrawn to Harmonized",
-    "x": [-8, -5, -2, 0, 2, 5, 8],
-    "y": [-8, -4, -2, 0, 3, 6, 8],
-    "color": "blue"
+    "label": "Parabolic Collapse",
+    "x": [-7, -5, -3, -1, 0, 1, 2, 3, 4],
+    "y": [-7, -4, -2, 0, 1, 0, -2, -4, -5],
+    "color": "darkred"
   },
   {
-    "label": "Collapse toward the Strategist",
-    "x": [-7, -4, -1, 0, 2, 4],
-    "y": [-6, -3, 0, 1, 0, -4],
-    "color": "red"
+    "label": "Inverse Parabola",
+    "x": [-6, -4, -2, 0, 2, 4, 6, 7],
+    "y": [7, 5, 2, 0, 2, 5, 7, 8],
+    "color": "teal"
+  },
+  {
+  "label": "Diagonal Redemption",
+  "x": [-8, -6, -4, -2, 0, 2, 4, 6, 8],
+  "y": [-8, -6, -3.5, -1, 0.5, 2, 4.5, 6.5, 8],
+  "color": "green"
+  },
+  {
+    "label": "Diagonal Fall",
+    "x": [-6, -4, -2, 0, 2, 4, 5],
+    "y": [7, 5, 2, 0, -2, -5, -6],
+    "color": "orange"
   }
-]
 
+]
