@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cadf6956-3197-4495-9c1b-1340cd6cf692" name="Changes" comment="GFX">
-      <change afterPath="$PROJECT_DIR$/docs/assets/data/graph2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/data/graph3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/data/graph4.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/data/trajectories.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/data/graph1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751472516252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GFX">
+      <option name="closed" value="true" />
+      <created>1751472872801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751472872801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
