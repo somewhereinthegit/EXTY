@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cadf6956-3197-4495-9c1b-1340cd6cf692" name="Changes" comment="GFX">
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/spiral9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2_MODEL.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2_MODEL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/assets/data/spiral1.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/data/spiral1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +42,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2zKEt1F22e78BvFtZckXctZZxsW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -120,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751474988092</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="GFX">
+      <option name="closed" value="true" />
+      <created>1751475205231</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751475205231</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

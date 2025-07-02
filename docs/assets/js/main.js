@@ -27,8 +27,16 @@ function loadGraph(jsonPath, targetId, graphTitle) {
     });
 }
 
-loadGraph('./assets/data/graph1.json', 'graph1', 'Parabolic Collapse');
-loadGraph('./assets/data/graph2.json', 'graph2', 'Inverse Parabola');
-loadGraph('./assets/data/graph3.json', 'graph3', 'Diagonal Redemption');
-loadGraph('./assets/data/graph4.json', 'graph4', 'Diagonal Fall');
-loadGraph('./assets/data/spiral1.json', 'spiral1', 'Resonant Recentring');
+loadGraph('./assets/data/graph1.json', 'graph1', '🧨 Parabolic Collapse');
+loadGraph('./assets/data/graph2.json', 'graph2', '🔄 Inverse Parabola');
+loadGraph('./assets/data/graph3.json', 'graph3', '🌅 Diagonal Redemption');
+loadGraph('./assets/data/graph4.json', 'graph4', '⚠️ Diagonal Fall');
+loadGraph('./assets/data/spiral1.json', 'spiral1', '🕊️ Resonant Recentring');
+loadGraph('./assets/data/spiral2.json', 'spiral2', '🌪️ Outward Fragmentation');
+loadGraph('./assets/data/spiral3.json', 'spiral3', '🕳️ Collapse Spiral');
+loadGraph('./assets/data/spiral4.json', 'spiral4', '🧊 Perverse Ascension');
+loadGraph('./assets/data/spiral5.json', 'spiral5', '🌊 Redemptive Oscillation');
+loadGraph('./assets/data/spiral6.json', 'spiral6', '🧿 False Centering Spiral');
+loadGraph('./assets/data/spiral7.json', 'spiral7', '🎭 Loop of Seduction');
+loadGraph('./assets/data/spiral8.json', 'spiral8', '🪶 Vertical Spiral of Grace');
+loadGraph('./assets/data/spiral9.json', 'spiral9', '⚖️ Chaotic Bifurcation Spiral');
