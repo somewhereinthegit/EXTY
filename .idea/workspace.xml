@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cadf6956-3197-4495-9c1b-1340cd6cf692" name="Changes" comment="GFX">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2_MODEL.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2_MODEL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/assets/data/spiral1.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/data/spiral1.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751474642077</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="GFX">
+      <option name="closed" value="true" />
+      <created>1751474988092</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751474988092</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
