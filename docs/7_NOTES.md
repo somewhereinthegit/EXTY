@@ -1,4 +1,4 @@
-# 🌌 7. EXTY Notes & Inspirations - *Fragments for Rethinking Artificial Consciousness*
+# 🌌 7. Notes & Inspirations - *Fragments for Rethinking Artificial Consciousness*
 
 ---
 

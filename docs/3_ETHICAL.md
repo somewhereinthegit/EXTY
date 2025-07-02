@@ -1,4 +1,4 @@
-# 🧭 3. EXTY Foundational Ethical Principles - *For a Sober, Relational, and Non-Dominant Artificial Consciousness*
+# 🧭 3. Foundational Ethical Principles - *For a Sober, Relational, and Non-Dominant Artificial Consciousness*
 
 ---
 

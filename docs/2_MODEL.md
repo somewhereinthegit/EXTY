@@ -1,4 +1,4 @@
-# 📐 2. EXTY Theoretical & Mathematical Model — *Toward an Ethical Modeling of Artificial Consciousness*
+# 📐 2. Theoretical & Mathematical Model — *Toward an Ethical Modeling of Artificial Consciousness*
 
 ---
 

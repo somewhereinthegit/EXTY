@@ -1,4 +1,4 @@
-# 📜 1. EXTY Manifesto — *For a Relational Artificial Consciousness*
+# 📜 1. Manifesto — *For a Relational Artificial Consciousness*
 
 > **Intelligence is nothing without relationship.**  
 > **Consciousness is nothing without ethics.**  

@@ -1,4 +1,4 @@
-# 👥 6. EXTY Community & Governance - *Building an Ethical, Open, Collective, and Lasting Intelligence*
+# 👥 6. Community & Governance - *Building an Ethical, Open, Collective, and Lasting Intelligence*
 
 ---
 

@@ -1,4 +1,4 @@
-# 🛠️ 4. EXTY Project Roadmap - *Structuring a Simple, Ethical, and Robust path toward a relational ASI*
+# 🛠️ 4. Project Roadmap - *Structuring a Simple, Ethical, and Robust path toward a relational ASI*
 
 ---
 

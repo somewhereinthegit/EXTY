@@ -1,4 +1,4 @@
-# 🧠 5. EXTY Minimal  Prototype - *A First Ethical, Sober, and Inspiring Proof of Relational Consciousness*
+# 🧠 5. Minimal  Prototype - *A First Ethical, Sober, and Inspiring Proof of Relational Consciousness*
 
 ---
 
