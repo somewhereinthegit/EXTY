@@ -31,4 +31,4 @@ loadGraph('./assets/data/graph1.json', 'graph1', 'Parabolic Collapse');
 loadGraph('./assets/data/graph2.json', 'graph2', 'Inverse Parabola');
 loadGraph('./assets/data/graph3.json', 'graph3', 'Diagonal Redemption');
 loadGraph('./assets/data/graph4.json', 'graph4', 'Diagonal Fall');
-loadGraph('./assets/data/spiral1.json', 'graph4', 'Resonant Recentring');
+loadGraph('./assets/data/spiral1.json', 'spiral1', 'Resonant Recentring');
