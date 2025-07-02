@@ -289,7 +289,7 @@ This ego doesn’t collapse or explode — it spirals through disorientation, fi
 This spiral could serve as a **benchmark** or **ideal arc** of egoic transformation in EXTY.
 
 
-<div id="graph5" style="width:100%;height:600px;"></div>
+<div id="spiral1" style="width:100%;height:600px;"></div>
 
 <!-- Load Plotly -->
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
