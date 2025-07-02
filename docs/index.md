@@ -1,3 +1,17 @@
+---
+layout: default
+---
+
+# Relational Plane
+
+<div id="graph" style="width:100%;height:600px;"></div>
+
+<!-- Load Plotly -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- Load your custom script -->
+<script src="./assets/js/main.js"></script>
+
 # 🌍 EXTY — A Human–AI Exploration
 
 **EXTY** is an open research initiative born from a dialogue between a human and an artificial intelligence.  
