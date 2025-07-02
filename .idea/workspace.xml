@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cadf6956-3197-4495-9c1b-1340cd6cf692" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cadf6956-3197-4495-9c1b-1340cd6cf692" name="Changes" comment="GFX">
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/graph2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/graph3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/data/graph4.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2_MODEL.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2_MODEL.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/data/Parabolic_Collapse.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/data/trajectories.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/data/trajectories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/Parabolic_Collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/data/trajectories.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/data/graph1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "somewhereinthegit"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/somewhereinthegit/EXTY.git",
+    "accountId": "37b3f272-b2ce-48d3-be26-5569cf95d865"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -29,13 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/vincent/Documents/GitHub/EXTY/docs/assets/data"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets/data" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1751471575035</updated>
     </task>
+    <task id="LOCAL-00001" summary="GFX">
+      <option name="closed" value="true" />
+      <created>1751472516252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751472516252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GFX" />
+    <option name="LAST_COMMIT_MESSAGE" value="GFX" />
   </component>
 </project>

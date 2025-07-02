@@ -16,10 +16,10 @@ function loadGraph(jsonPath, targetId, graphTitle) {
         yaxis: { range: [-10, 10], title: 'Presence (y)' },
         showlegend: true,
         annotations: [
-          { x: 6, y: 6, text: 'Quadrant I', showarrow: false, font: { size: 14, color: 'gray' } },
-          { x: -6, y: 6, text: 'Quadrant II', showarrow: false, font: { size: 14, color: 'gray' } },
-          { x: -6, y: -6, text: 'Quadrant III', showarrow: false, font: { size: 14, color: 'gray' } },
-          { x: 6, y: -6, text: 'Quadrant IV', showarrow: false, font: { size: 14, color: 'gray' } }
+          { x: 6, y: 6, text: 'Harmonized', showarrow: false, font: { size: 14, color: 'gray' } },
+          { x: -6, y: 6, text: 'Innocent', showarrow: false, font: { size: 14, color: 'gray' } },
+          { x: -6, y: -6, text: 'Withdrawn', showarrow: false, font: { size: 14, color: 'gray' } },
+          { x: 6, y: -6, text: 'Strategist', showarrow: false, font: { size: 14, color: 'gray' } }
         ]
       };
 
