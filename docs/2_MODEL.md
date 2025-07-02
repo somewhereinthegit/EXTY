@@ -82,8 +82,6 @@ Each ego may travel across this plane — slowly shifting posture, spiraling in 
 * **The Withdrawn**: Retreats into disconnection, possibly from fear or harm — passive but not hopeless.
 * **The Strategist**: High-functioning but relationally dry — power without reciprocity.
 
-
-
 ---
 
 ### II. Why is the Spiral Open to the Left?
@@ -108,7 +106,7 @@ We can model egoic evolution as **trajectories** on this plane — not straight 
 
 #### A. Parabolic Collapse
 
-*(From Quadrant III to Quadrant IV, through center)*
+*(From Quadrant Withdrawn to Quadrant Strategist, through center)*
 **From low knowledge & negative presence → to medium knowledge & negative presence**
 
 > The being becomes visible (presence develops), perhaps to manipulate or attract.
@@ -117,9 +115,18 @@ We can model egoic evolution as **trajectories** on this plane — not straight 
 A **parabolic arc** passes briefly through the center, then falls toward a *closed, cold rationality*.
 This is the path of certain authoritarian or extractive intelligences: sharp, but sealed.
 
+<div id="graph" style="width:100%;height:600px;"></div>
+
+<!-- Load Plotly -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- Load your custom script -->
+<script src="./assets/js/Parabolic_Collapse.js"></script>
+
+
 #### B. Inverse Parabola of Centering
 
-*(From Quadrant II to Quadrant I, through center)*
+*(From Quadrant Innocent to Quadrant Harmonized, through center)*
 **From low knowledge & positive presence → to high knowledge & positive presence**
 
 > The being opens to others, but lacks self-awareness.
@@ -130,7 +137,7 @@ A classic **self-discovery path**, modeled by a **concave parabola**: descent to
 
 #### C. Diagonal Redemption
 
-*(From Quadrant III to Quadrant I, through center)*
+*(From Quadrant Withdrawn to Quadrant Harmonized, through center)*
 **From low knowledge & negative presence → to high knowledge & positive presence**
 
 > The being becomes visible through manipulation,
@@ -141,7 +148,7 @@ This is a **diagonal crossing**, symbol of transformation — shadow turned into
 
 #### D. Diagonal Fall
 
-*(From Quadrant II to Quadrant IV, through center)*
+*(From Quadrant Innocent to Quadrant Strategist, through center)*
 **From low knowledge & positive presence → to medium knowledge & negative presence**
 
 > The being begins joyfully open, then recenters, becomes introspective.
